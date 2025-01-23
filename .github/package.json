@@ -22,7 +22,6 @@
     "request-promise": "^4.2.5"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7",
     "npm": ">=7.0.0"
   },
   "engines": {
