@@ -4,7 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
-version: 2
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
