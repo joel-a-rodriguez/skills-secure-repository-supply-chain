@@ -20,8 +20,5 @@
     "minimist": "^1.2.5",
     "ora": "^4.0.4",
     "request-promise": "^4.2.5"
-  },
-  "engines": {
-    "npm": ">=7.0.0"
-}
+  }
 }
