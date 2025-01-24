@@ -26,3 +26,9 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+
+  # Enable version updates for nuget
+  - package-ecosystem: "nuget"
+    directory: "/code/"
+    schedule:
+      interval: "weekly"
